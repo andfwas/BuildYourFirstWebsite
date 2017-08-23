@@ -1,0 +1,66 @@
+.sedgwick {
+  font-family: 'Sedgwick Ave', cursive;
+}
+
+.shadows {
+  font-family: 'Shadows Into Light', cursive;
+  color: white;
+}
+
+.banner {
+  display: flex;
+  justify-content: space-around;
+  background-color: #0C2340;
+  padding: 1em;
+  margin: 2% 0 2% 0;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+}
+
+.button {
+  padding: 0 .3em 0 .3em;
+  background-color: #FC4C02;
+  margin: .25em;
+  border-radius: 5px;
+  font-size: 2em;
+  text-align: center;
+}
+
+h1 {
+  color: #FC4C02;
+}
+
+main {
+  font-family: 'Quicksand', sans-serif;
+}
+
+ul {
+  margin-left: 2em;
+}
+
+.main {
+  width: 100%;
+  padding: 2em;
+}
+
+.mainimg {
+  float: right;
+  margin: 0 4em 0 4em;
+  width: 250px;
+  border-radius: 15px;
+}
+
+p {
+  margin-right: 4em;
+}
+
+.footer {
+  display: flex;
+  align-items: flex-end;
+  align-content: center;
+  color: #FC4C02;
+}

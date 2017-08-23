@@ -1,0 +1,63 @@
+body {
+  color: white;
+  background-color: #0C2340;
+  text-shadow: .1em .1em 2em #FC4C02;
+}
+
+#andyH1 {
+  color: #FC4C02;
+}
+
+#andyH3 {
+  color: #FC4C02;
+}
+
+img {
+  width: 33%;
+  margin-left: 33%;
+  border-radius: 2em;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+ul {
+  margin-left: 22%;
+  margin-right: 22%;
+}
+
+a {
+  color: #FC4C02;
+  font-style: italic;
+  text-shadow: .1em .1em 2em #FC4C02;
+}
+
+.reference {
+  text-align: center;
+}
+
+.cordelia {
+  color: #0C2340;
+  background-color: #FC4C02;
+  text-shadow: .1em .1em 2em white;
+}
+
+#homelink {
+  color: blue;
+}
+
+
+#cordelia {
+  text-align: center;
+}

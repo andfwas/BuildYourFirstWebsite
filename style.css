@@ -1,0 +1,151 @@
+.sedgwick {
+  font-family: 'Sedgwick Ave', cursive;
+}
+
+.shadows {
+  font-family: 'Shadows Into Light', cursive;
+  color: white;
+  text-align: right;
+}
+
+.shadows1 {
+  font-family: 'Shadows Into Light', cursive;
+  color: #0C2340;
+}
+
+.banner {
+  display: flex;
+  justify-content: space-around;
+  background-color: #0C2340;
+  padding: .1em 1em .1em 1em;
+  margin: 2% 0 2% 0;
+  border-radius: 1em;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  padding: 0 .5em 0 0;
+  background-color: #FC4C02;
+  margin: 1em;
+  border-radius: 5px;
+  text-align: center;
+  width: 6em;
+}
+
+h1 {
+  color: #FC4C02;
+}
+
+main {
+  font-family: 'Quicksand', sans-serif;
+}
+
+ul {
+  margin-left: 2em;
+}
+
+li {
+  padding: 0 3em 0 0;
+}
+
+.main {
+  width: 96%;
+  margin-left: 2%;
+  padding: 2em;
+  overflow: auto;
+}
+
+.mainimg {
+  float: right;
+  margin: 0 4em 1em 4em;
+  min-width: 250px;
+  max-width: 30%;
+  border-radius: 15px;
+}
+
+.gifdiv {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.gif {
+  width: 30%;
+  border-radius: 15px;
+  margin-right: .5em;
+}
+
+p {
+  margin-right: 4em;
+}
+
+.footer {
+  text-align: center;
+  color: #FC4C02;
+  background-color: #0C2340;
+  padding: .1em 1em .1em 1em;
+  margin: 2% 0 2% 0;
+  border-radius: 1em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FC4C02;
+}
+
+a:active {
+  color: black;
+}
+
+a:visited {
+  color: orange;
+}
+
+.table {
+  width: 100%;
+  margin-left: -2em;
+}
+
+table {
+  width: 100%;
+  font-family: 'Shadows Into Light', cursive;
+  background-color: #0C2340;
+  font-size: 1.5em;
+  margin-top: 1em;
+  border-radius: 15px;
+}
+
+tr {
+  display: flex;
+  justify-content: space-around;
+}
+
+th {
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+  color: #FC4C02;
+  font-size: 1.5em;
+}
+
+td {
+  color: white;
+  font-size: 1em;
+  margin-left: 1em;
+}
+
+.columns {
+  margin-left: 2em;
+}
