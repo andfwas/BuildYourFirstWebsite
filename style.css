@@ -121,7 +121,6 @@ a:visited {
 
 table {
   width: 100%;
-  font-family: 'Shadows Into Light', cursive;
   background-color: #0C2340;
   font-size: 1.5em;
   margin-top: 1em;
@@ -134,7 +133,6 @@ tr {
 }
 
 th {
-  font-family: 'Shadows Into Light', cursive;
   text-align: center;
   color: #FC4C02;
   font-size: 1.5em;
